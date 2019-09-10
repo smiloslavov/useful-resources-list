@@ -1,0 +1,8 @@
+Polymer:
+https://polymer-library.polymer-project.org/3.0/docs/devguide/feature-overview
+
+Spring Boot Testing Tutorial:
+https://www.baeldung.com/spring-boot-testing
+
+6 Fun React Practice Projects:
+https://daveceddia.com/react-practice-projects/

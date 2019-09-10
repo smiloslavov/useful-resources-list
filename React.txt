@@ -1,0 +1,32 @@
+React Path:
+https://www.pluralsight.com/paths/react
+
+React Fundamentals:
+https://www.pluralsight.com/courses/react-fundamentals-update
+
+React Getting Started:
+https://www.pluralsight.com/courses/react-js-getting-started
+
+Using React Hooks:
+https://www.pluralsight.com/courses/using-react-hooks
+
+React.js Hooks Crash Course:
+https://www.youtube.com/watch?v=-MlNBTSg_Ww
+
+Advanced React:
+https://www.pluralsight.com/courses/reactjs-advanced
+
+Test-driven development with React:
+https://www.pluralsight.com/courses/test-driven-development-react
+
+
+Examples in the React JS playground:
+https://jscomplete.com/learn/why-react
+
+https://jscomplete.com/learn/react-beyond-basics/react-cfp
+
+https://reactjs.org/
+
+https://reactjs.org/docs/introducing-jsx.html
+
+https://jscomplete.com/playground/react-style

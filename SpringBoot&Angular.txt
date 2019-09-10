@@ -1,0 +1,26 @@
+Creating Your First Spring Boot Application:
+https://www.pluralsight.com/courses/spring-boot-first-application
+
+Spring Boot Fundamentals:
+https://www.pluralsight.com/courses/spring-boot-fundamentals
+
+Creating applicatoins with jHipster:
+https://www.pluralsight.com/courses/scaffolding-spring-boot-and-angular-with-jhipster
+
+Angular Getting Started:
+https://www.pluralsight.com/courses/angular-2-getting-started-update
+
+Angular Fundamentals:
+https://www.pluralsight.com/courses/angular-fundamentals
+
+Angular Routing:
+https://www.pluralsight.com/courses/angular-routing
+
+Angular CLI tool crash course:
+https://www.pluralsight.com/courses/angular-cli
+
+Angular Best Practices:
+https://www.pluralsight.com/courses/best-practices-angular
+
+Creating application with Spring Boot and Angular:
+https://www.pluralsight.com/courses/building-first-app-with-spring-boot-angularjs
